@@ -35,14 +35,13 @@ body {
 
 .carousel-caption h1 {
     font-size: 3rem;
-    font-weight: 100;
+    font-weight: 700;
     letter-spacing: .3rem;
     text-shadow: .1em .1rem .8rem black;
 }
 .btn-lg {
     border-width: medium;
     border-radius: 0;
-
 }
 
 /* Jumbotron */
